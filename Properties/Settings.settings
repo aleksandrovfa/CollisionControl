@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CollisionControl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SettingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O:\Etalon Project\KPO\Revit\!_БИБЛИОТЕКА РЕСУРСОВ\06_АУДИТ\01_Navisworks\для CollisionControl\Настройки.xml</Value>
+    </Setting>
+    <Setting Name="ExportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

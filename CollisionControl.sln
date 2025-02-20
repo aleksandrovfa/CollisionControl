@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionControl", "CollisionControl.csproj", "{9AFB3242-97C2-481A-818B-C21206BE5ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build-N19|Any CPU = Build-N19|Any CPU
+		Build-N22|Any CPU = Build-N22|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFB3242-97C2-481A-818B-C21206BE5ABA}.Build-N19|Any CPU.ActiveCfg = Build-N19|Any CPU
+		{9AFB3242-97C2-481A-818B-C21206BE5ABA}.Build-N19|Any CPU.Build.0 = Build-N19|Any CPU
+		{9AFB3242-97C2-481A-818B-C21206BE5ABA}.Build-N22|Any CPU.ActiveCfg = Build-N22|Any CPU
+		{9AFB3242-97C2-481A-818B-C21206BE5ABA}.Build-N22|Any CPU.Build.0 = Build-N22|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764C0D7F-84FF-46C0-989A-833E8AC13E8F}
+	EndGlobalSection
+EndGlobal
